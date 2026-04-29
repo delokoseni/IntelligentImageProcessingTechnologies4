@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="378eaf6a-0330-4c90-8d67-6f7c73ee12ba" name="Changes" comment="Добавил сравнение функций потерь.">
+    <list default="true" id="378eaf6a-0330-4c90-8d67-6f7c73ee12ba" name="Changes" comment="Лабораторная готова.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,13 +94,22 @@
       <option name="project" value="LOCAL" />
       <updated>1777454620065</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Лабораторная готова.">
+      <option name="closed" value="true" />
+      <created>1777455060620</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777455060620</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Получил данные. Добавил файл format.json." />
     <MESSAGE value="Перешел на GPU, добавил информацию со сравнением." />
     <MESSAGE value="Добавил сравнение функций потерь." />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил сравнение функций потерь." />
+    <MESSAGE value="Лабораторная готова." />
+    <option name="LAST_COMMIT_MESSAGE" value="Лабораторная готова." />
   </component>
 </project>
